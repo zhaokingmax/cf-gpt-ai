@@ -16,7 +16,8 @@ preview_id = "fe6bf7cef8244d459bb625ecd65fe4ba"
 # 环境变量配置
 # 部署前请修改为安全的密码
 [vars]
-CHAT_PASSWORD = "Admin@123"
+CHAT_PASSWORD = "admin123"
+
 
 
 
