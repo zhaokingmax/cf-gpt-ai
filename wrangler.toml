@@ -1,4 +1,4 @@
-name = "cf-gpt-ai"
+name = "demo03"
 main = "src/worker.js"
 compatibility_date = "2025-08-25"
 
@@ -17,6 +17,7 @@ preview_id = "e3035bc1bf714504af19ef86575297d6"
 # 部署前请修改为安全的密码
 [vars]
 CHAT_PASSWORD = "admin123"
+
 
 
 
