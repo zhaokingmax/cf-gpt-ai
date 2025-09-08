@@ -1,4 +1,4 @@
-name = "chat666"
+name = "cf-gpt-ai"
 main = "src/worker.js"
 compatibility_date = "2025-08-25"
 
@@ -10,13 +10,14 @@ binding = "AI"
 # 然后替换下面的 id 和 preview_id
 [[kv_namespaces]]
 binding = "CHAT_HISTORY"
-id = "fe6bf7cef8244d459bb625ecd65fe4ba"
-preview_id = "fe6bf7cef8244d459bb625ecd65fe4ba"
+id = "e3035bc1bf714504af19ef86575297d6"
+preview_id = "e3035bc1bf714504af19ef86575297d6"
 
 # 环境变量配置
 # 部署前请修改为安全的密码
 [vars]
 CHAT_PASSWORD = "admin123"
+
 
 
 
